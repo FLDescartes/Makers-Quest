@@ -20,7 +20,8 @@ Nous avons organisé les contenus de cette documentation en 3 sections :
 
 N'hésitez pas à nous écrire pour toute question ou suggestion par rapport à ce jeu !
 ***L'équipe Makers'Quest***
-![equipe makers'quest!](/team.jpeg)
+
+![logo EU!](/FR_Cofinancé_par_l’Union_européenne_POS(1).png)
 
 
 ## License 
