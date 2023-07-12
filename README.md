@@ -9,8 +9,6 @@ Age : à partir de 10 ans
 Nombre de joueurs : de 2 à 5
 Durée d'une partie : de 30 à 90min
 
----
-
 ## Comment ça marche ?
 
 Ce jeu est entièrement open source. Vous trouverez ici tous les éléments qui vous permettront de le fabriquer dans votre fablab préféré. La matériel minumum requis est constitué d'une découpe laser, d'une imprimante 3D, d'un imprimante 3D, de carton, de bois et de filament 3D de votre choix. 
@@ -21,9 +19,9 @@ Nous avons organisé les contenus de cette documentation en 3 sections :
 - **Eléments graphiques** : vous y trouverez les fichiers sources des élements graphiques que nous avons créé pour le jeu
 
 N'hésitez pas à nous écrire pour toute question ou suggestion par rapport à ce jeu !
-L'équipe Makers'Quest
+***L'équipe Makers'Quest***
+![equipe makers'quest!](/team.jpeg)
 
 
----
 ## License 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
