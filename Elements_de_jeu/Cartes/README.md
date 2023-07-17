@@ -1,4 +1,4 @@
-#Contenu
+# Contenu
 Vous trouverez ici toutes les cartes du jeu:
 
 - Les cartes machines, classées par type de machine
@@ -9,7 +9,7 @@ Vous trouverez ici toutes les cartes du jeu:
 
 Reportez-vous au manuel du jeu pour plus de détails sur la répartition des cartes.
 
-#Fabrication
+# Fabrication
 Nous avons testé deux modes de fabrication :
 
 - Impression des cartes en recto/verso sur papier épais (grammage 120g ou supérieur), puis plastifiage
