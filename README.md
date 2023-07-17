@@ -5,9 +5,9 @@
 Makers'Quest est un jeu de société open source, conçu par [**COF Amay**](https://www.cof.be/), [**Fablab Descartes**](https://www.descartes-devinnov.com/fablab-descartes/) et [**Innofab**](https://www.innofab.fr/) et financé par l'**Union Européenne** dans le cadre du programme **Erasmus+**.
 
 C'est un jeu coopératif qui  vous permettra de vous plonger dans l'univers des Fablabs. Grâce aux machines disponibles, vous allez apprendre à réaliser vos projets, en coopérant avec vos coéquipiers.
-Age : à partir de 10 ans
-Nombre de joueurs : de 2 à 5
-Durée d'une partie : de 30 à 90min
+- Age : à partir de 10 ans
+- Nombre de joueurs : de 2 à 5
+- Durée d'une partie : de 30 à 90min
 
 ## Comment ça marche ?
 
