@@ -16,10 +16,10 @@ Si vous utilisez une imprimante résine, prennez le fichier correspondant. Déte
 
 ### Les faces de dés :
 
-Elles sont prévues pour être découpées et gravées au laser sur un matériau de 3mm d'épaisseur, idéalement du contreplaqué bouleau.
+Elles sont prévues pour être découpées et gravées au laser sur un **matériau de 3mm d'épaisseur**, idéalement du contreplaqué bouleau.
 Le fichier de fabrication contient toutes les faces nécessaires pour un jeu complet (contenant 10 dés).
 Une fois découpées, les faces doivent être simplement clipsées sur les dés et peuvent ainsi être remplacées par d'autres au fur et à mesure du jeu (se référer aux règles).
 
 **Attention :** Lorsque vous assemblez les faces sur les dés, ne les clipsez pas trop fort, pour pouvoir facilement les enlever si besoin, mais suffisamment tout de même pour qu'elle ne tombent pas quand vous lancez vos dés !
 
-![Dés Makers' Quest](/image.jpg)
+![Dés Makers' Quest](/DF6E36E6-515C-48CB-B5AB-5F56A7B42AB8_1_201_a.jpeg)
