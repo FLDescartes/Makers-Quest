@@ -24,3 +24,5 @@ Matériel requis :
 - Plastifieuse et pochettes à plastifier
 - Paire de ciseaux et/ou massicot pour séparer les cartes une fois imprimées
 - En option : un arrondisseur d'angles (fourni avec notre plastifieuse) pour avoir des coins arrondis et moins coupants. Astuce : si vous n'avez pas d'arrondisseur d'angle, vous pouvez aussi utiliser un coupe-ongles ;)
+
+	![Cartes Makers' Quest](/)
