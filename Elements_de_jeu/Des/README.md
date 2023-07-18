@@ -22,4 +22,4 @@ Une fois découpées, les faces doivent être simplement clipsées sur les dés 
 
 **Attention :** Lorsque vous assemblez les faces sur les dés, ne les clipsez pas trop fort, pour pouvoir facilement les enlever si besoin, mais suffisamment tout de même pour qu'elle ne tombent pas quand vous lancez vos dés !
 
-![Dés Makers' Quest](/DF6E36E6-515C-48CB-B5AB-5F56A7B42AB8_1_201_a.jpeg)
+![Dés Makers' Quest](DF6E36E6-515C-48CB-B5AB-5F56A7B42AB8_1_201_a.jpeg)
