@@ -10,4 +10,4 @@ Le plateau de jeu est prévu pour être gravé et découpé au laser, mais vous 
 Nous avons réalisé nos exemplaires avec du carton bois 2mm, qui a l'avantage d'offrir un très bon rendu de gravure et de permettre des variations de teinte assez fines.
 Fabriquez simplement un exemplaire de chaque pièce du plateau et assemblez-les comme un puzzle pour la mise en place du jeu.
 
-![Plateau Makers' Quest](image.jpg)
+![Plateau Makers' Quest](6E9DE74A-6F55-43F7-A5F2-2CEDFCC414CE_1_201_a.jpeg)
