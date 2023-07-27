@@ -6,7 +6,7 @@ Le support a été conçu avec Fusion360, vous pouvez donc modifier les sources 
 ## Fabrication
 
 Découper 5 fois chaque pièce à l'aide d'une découpe laser, sur du **contreplaqué (ou autre matériau) de 3mm d'épaisseur**.
-La zone en noir est à graver, et permet d'éviter que les cartes de glissent vers l'avant quand on les pose.
+La zone en noir est à graver, et permet d'éviter que les cartes ne glissent vers l'avant quand on les pose.
 Assemblez puis collez les pièces entre elles si nécessaire.
 
 ![Supports Cartes Makers' Quest](7D837A11-A761-4154-A51B-59A7BF3B1901.jpeg)

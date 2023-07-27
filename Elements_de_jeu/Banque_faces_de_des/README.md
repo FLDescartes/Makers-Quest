@@ -9,6 +9,6 @@ Le fichier .svg contient 2 calques (ouvrir avec Inkscape de préférence) :
 - un calque pour le fond, où seront gravés les emplacements des faces de dés
 - un calque pour le dessus, avec les ouvertures pour placer les dés
 
-Les fichiers osnt prévus pour être gravés et découpés au laser, de préférence sur du contreplaqué de 3 ou 5mm d'épaisseur. Collez les deux faces ensembles à la colle à bois.
+Les fichiers sonnt prévus pour être gravés et découpés au laser, de préférence sur du contreplaqué de 3 ou 5mm d'épaisseur. Collez les deux faces ensembles à la colle à bois.
 
 ![Banque de faces de dés Makers' Quest](8A7C7649-A222-4F86-BFB1-E7A6CDC7511A_1_201_a.jpeg)

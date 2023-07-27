@@ -1,6 +1,6 @@
 ## Contenu
 
-Vous trouverez ici les fichier pour fabriquer les jetons utilisés sur les cartes, pour signifier :
+Vous trouverez ici les fichiers pour fabriquer les jetons utilisés sur les cartes, pour signifier :
 
 - l'occupation d'une machine (petits jetons de 8mm)
 - l'activation d'un pouvoir (grands jetons de 12mm)

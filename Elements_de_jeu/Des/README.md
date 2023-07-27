@@ -12,7 +12,7 @@ Vous trouverez ici :
 Si vous utilisez une imprimante FDM, **imprimez les dés avec la face marqué d'un H vers le haut**. En effet, cette face, ainsi que la face opposée, ont des dimensions légèrement différentes par rapport aux autres, pour permettre une bonne accroche des faces interchangeables.
 Imprimez les dés avec un **taux de remplissage à 100%** pour un équilibrage optimal, et en hauteur de couche 0,15mm ou inférieure.
 
-Si vous utilisez une imprimante résine, prennez le fichier correspondant. Déterminez vos propore réglage, nous n'avons pas testé cette option.
+Si vous utilisez une imprimante résine, prennez le fichier correspondant. Déterminez vos propres réglages, nous n'avons pas testé cette option.
 
 ### Les faces de dés :
 
