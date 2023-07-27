@@ -11,11 +11,11 @@ C'est un jeu coopératif qui  vous permettra de vous plonger dans l'univers des 
 
 ## Comment ça marche ?
 
-Ce jeu est entièrement open source. Vous trouverez ici tous les éléments qui vous permettront de le fabriquer dans votre fablab préféré. La matériel minumum requis est constitué d'une découpe laser, d'une imprimante 3D, d'un imprimante 3D, de carton, de bois et de filament 3D de votre choix. 
+Ce jeu est entièrement open source. Vous trouverez ici tous les éléments qui vous permettront de le fabriquer dans votre fablab préféré. La matériel minimum requis est constitué d'une découpe laser, d'une imprimante 3D, d'un imprimante 3D, de carton, de bois et de filament 3D de votre choix. 
 Nous avons organisé les contenus de cette documentation en 3 sections :
 
 - **Mécanique de jeu** : vous y trouverez les règles, les contenus textuels des cartes, ainsi que les tableaux de calculs des points, coûts des cartes et pouvoirs...
-- **Eléments de jeu** : vous y trouverez tous les fichiers qui vous permettront de fabriquer le jeu, classés par types, et accompagnés à chaque fois d'inscructions de fabrication
+- **Eléments de jeu** : vous y trouverez tous les fichiers qui vous permettront de fabriquer le jeu, classés par types, et accompagnés à chaque fois d'instructions de fabrication
 - **Eléments graphiques** : vous y trouverez les fichiers sources des élements graphiques que nous avons créé pour le jeu
 
 N'hésitez pas à nous écrire pour toute question ou suggestion par rapport à ce jeu !
