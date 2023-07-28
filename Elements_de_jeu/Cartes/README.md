@@ -3,7 +3,7 @@ Vous trouverez ici toutes les cartes du jeu :
 
 - Les cartes machines, classées par type de machine
 - Les cartes événement
-- Les cartes projets, clasées par niveau de difficulté
+- Les cartes projets, classées par niveau de difficulté
 - Les cartes personnages
 - Les cartes aide (vous pouvez en faire de 2 à 5 par jeu)
 

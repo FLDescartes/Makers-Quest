@@ -16,7 +16,7 @@ Nous avons organisé les contenus de cette documentation en 3 sections :
 
 - **Mécanique de jeu** : vous y trouverez les règles, les contenus textuels des cartes, ainsi que les tableaux de calculs des points, coûts des cartes et pouvoirs...
 - **Eléments de jeu** : vous y trouverez tous les fichiers qui vous permettront de fabriquer le jeu, classés par types, et accompagnés à chaque fois d'instructions de fabrication
-- **Eléments graphiques** : vous y trouverez les fichiers sources des élements graphiques que nous avons créé pour le jeu
+- **Eléments graphiques** : vous y trouverez les fichiers sources des éléments graphiques que nous avons créé pour le jeu
 
 N'hésitez pas à nous écrire pour toute question ou suggestion par rapport à ce jeu !
 ***L'équipe Makers'Quest***
@@ -24,5 +24,5 @@ N'hésitez pas à nous écrire pour toute question ou suggestion par rapport à 
 ![logo EU!](/Elements_graphiques/Logos/FR_Cofinance%CC%81_par_l%E2%80%99Union_europe%CC%81enne_POS(1).png)
 
 
-## License 
+## Licence 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.

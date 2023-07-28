@@ -2,7 +2,7 @@
 
 Vous trouverez ici :
 
-- les fichiers 3D permettant l'impression 3D de la base des dés. Il existe une version "FDM" qui est adaptée aux imprimantes à dépot de fil, et une version "SLA" qui est adaptée aux imprimantes résine. Les fichiers sources au format Fusion360 sont également fournis, si vous souhaitez faire des modifications.
+- les fichiers 3D permettant l'impression 3D de la base des dés. Il existe une version "FDM" qui est adaptée aux imprimantes à dépôt de fil, et une version "SLA" qui est adaptée aux imprimantes résine. Les fichiers sources au format Fusion360 sont également fournis, si vous souhaitez faire des modifications.
 - les fichiers .svg de toutes les faces de dés. Il est prêt à l'emploi, pour un jeu complet.
 
 ## Fabrication
@@ -12,7 +12,7 @@ Vous trouverez ici :
 Si vous utilisez une imprimante FDM, **imprimez les dés avec la face marqué d'un H vers le haut**. En effet, cette face, ainsi que la face opposée, ont des dimensions légèrement différentes par rapport aux autres, pour permettre une bonne accroche des faces interchangeables.
 Imprimez les dés avec un **taux de remplissage à 100%** pour un équilibrage optimal, et en hauteur de couche 0,15mm ou inférieure.
 
-Si vous utilisez une imprimante résine, prennez le fichier correspondant. Déterminez vos propres réglages, nous n'avons pas testé cette option.
+Si vous utilisez une imprimante résine, prenez le fichier correspondant. Déterminez vos propres réglages, nous n'avons pas testé cette option.
 
 ### Les faces de dés :
 
